@@ -19,7 +19,7 @@ Produtos mais vendidos;
 Receita por região;
 
 Dashboard
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagem/Dashboard Confeitaria.png)
 
 Insights
 Produtos como Cupcake lideram em volume de vendas;
