@@ -18,8 +18,7 @@ Evolução das vendas ao longo do tempo;
 Produtos mais vendidos;
 Receita por região;
 
-Dashboard
-![Dashboard](imagens/dashboard.png)
+Dashboard![Dashboard](imagens/dashboard.png)
 
 Insights
 Produtos como Cupcake lideram em volume de vendas;
