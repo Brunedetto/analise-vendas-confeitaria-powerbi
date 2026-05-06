@@ -86,6 +86,6 @@ Sugestões e melhorias são sempre bem-vindas!
 
 ## 📎 Contato
 
-www.linkedin.com/in/bruno-luiz15
+Linkedin: www.linkedin.com/in/bruno-luiz15
 
 Email: Brunedetto@gmail.com
