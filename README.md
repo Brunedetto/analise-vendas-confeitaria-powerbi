@@ -53,7 +53,7 @@ O dashboard foi construído com foco em responder perguntas de negócio:
 
 ---
 
-[Dashboard](./imagens/dashboard.png)
+![Dashboard](./imagens/dashboard.png)
 
 
 ---
