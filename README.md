@@ -53,8 +53,11 @@ O dashboard foi construído com foco em responder perguntas de negócio:
 
 ---
 
-![Dashboard](./imagens/dashboard.png)
+## 📷 Visual do Dashboard
 
+<p align="center">
+  <img src="./imagens/dashboard.png" width="800"/>
+</p>
 
 ---
 
