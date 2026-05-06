@@ -1,29 +1,86 @@
 # analise-vendas-confeitaria-powerbi
 
-Análise de Vendas
+# 🍰 Análise de Vendas e Rentabilidade – Confeitaria
 
-Projeto desenvolvido com o objetivo de analisar o desempenho de vendas de uma confeitaria, utilizando dados simulados.
+Este projeto tem como objetivo analisar dados de vendas de uma confeitaria, transformando informações em **insights estratégicos para tomada de decisão**.
 
-Objetivo:
+---
 
-Identificar padrões de vendas, produtos mais vendidos e regiões com maior faturamento.
+## 🎯 Objetivo
 
-Ferramentas utilizadas:
-Excel;
-Power BI;
+Identificar:
+- Produtos mais vendidos
+- Produtos com menor margem
+- Regiões com maior potencial de vendas
+- Oportunidades de melhoria na rentabilidade
 
-Análises realizadas:
-Receita total, custo e lucro;
-Evolução das vendas ao longo do tempo;
-Produtos mais vendidos;
-Receita por região;
+---
 
-Dashboard![Dashboard](imagens/dashboard.png)
+## 📊 Principais Métricas
 
-Insights:
-Produtos como Cupcake lideram em volume de vendas;
-A região SP apresenta maior faturamento;
-Existe variação de lucro ao longo do tempo;
+- Receita Total  
+- Custo Total  
+- Lucro Total  
+- Margem (%)  
+- Quantidade de Vendas  
 
-Sobre mim:
-Estou em transição de carreira para a área de dados, desenvolvendo projetos práticos com foco em análise de dados e geração de insights para tomada de decisão.
+---
+
+## 🧠 Insights Gerados
+
+- 📌 **Cupcake é o produto mais vendido**, porém sua margem deve ser monitorada para garantir rentabilidade  
+- 📌 **SP apresenta maior volume de vendas**, sendo a principal região para intensificação de estratégias comerciais  
+- 📌 Produtos com alta saída nem sempre são os mais lucrativos  
+
+---
+
+## 📈 Dashboard
+
+O dashboard foi construído com foco em responder perguntas de negócio:
+
+- Qual produto vende mais, mas dá pouco lucro?
+- Quais produtos devo priorizar no estoque?
+- Onde devo investir mais em vendas?
+- Como está a evolução das vendas ao longo do tempo?
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Power BI  
+- Excel / CSV  
+- SQL (para análise prévia dos dados)  
+
+---
+
+![Dashboard](./dashboard/dashboard.png)
+
+
+---
+
+## 🚀 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram aplicados conceitos como:
+
+- Análise exploratória de dados (EDA)
+- Criação de métricas de negócio
+- Construção de dashboards orientados à decisão
+- Storytelling com dados
+
+---
+
+## 📌 Conclusão
+
+Este projeto reforça a importância de ir além da visualização de dados, focando em **gerar insights acionáveis** que auxiliem na tomada de decisão.
+
+---
+
+## 🤝 Contribuição
+
+Sugestões e melhorias são sempre bem-vindas!
+
+---
+
+## 📎 Contato
+
+www.linkedin.com/in/bruno-luiz15
